@@ -59,6 +59,29 @@ Where `e(t)` is the error, was employed to make real-time adjustments ensuring t
 
 Key modules such as `se3_control.py` (quadrotor control) and `graph_search.py` (path planning) were incorporated. The primary module, `world_traj.py`, was central in combining trajectory generation with environmental feedback, guaranteeing seamless obstacle navigation for the quadrotor.
 
+![3D_Path3](https://github.com/Saibernard/Crazyflie-Advanced-Autonomous-3D-Navigation/assets/112599512/1ef46b50-c086-4450-9a1b-29050ada85f1)
+
+![Position_vs_Time](https://github.com/Saibernard/Crazyflie-Advanced-Autonomous-3D-Navigation/assets/112599512/d55a2a79-9dff-4762-b8f1-002df6744ad4)
+
+![A_Path,_Waypoints,_and_Trajectory](https://github.com/Saibernard/Crazyflie-Advanced-Autonomous-3D-Navigation/assets/112599512/7657b577-24b6-49c8-a5e6-4773c9f1b81e)
+
+
+![output](https://github.com/Saibernard/Crazyflie-Advanced-Autonomous-3D-Navigation/assets/112599512/248d1a64-6fee-4c7d-884e-ec0e4ac0d183)
+
+
+
+
+### Simulation:
+
+The simulation of the quad can be found in this video[https://youtu.be/UEcTmigXg7M] .
+
+### Actual testing:
+
+The actual testing of the quadcopter in the crazyflie hardware can be found here[https://youtu.be/E2RCtFpBg54]
+
+
+
+
 ---
 
 This summary elucidates the mathematical and coding foundations underpinning the significant aspects of this project.
